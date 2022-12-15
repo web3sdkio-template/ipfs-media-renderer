@@ -35,7 +35,7 @@ const { data: nfts } = useNFTs(contract, {
 });
 ```
 
-We then use the [MediaRenderer](https://portal.web3sdk.io/ui-components/ipfs-media-renderer) component to render the NFTs:
+We then use the [MediaRenderer](https://docs.web3sdk.io/ui-components/ipfs-media-renderer) component to render the NFTs:
 
 ```tsx
 <div className={styles.container}>
@@ -54,4 +54,4 @@ We then use the [MediaRenderer](https://portal.web3sdk.io/ui-components/ipfs-med
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
